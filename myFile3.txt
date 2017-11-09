@@ -1,0 +1,2 @@
+This file myFile3
+added locally
